@@ -1,0 +1,32 @@
+2019-09-25 ------------sending to facilities-------------------
+sent to facility successfully
+2019-09-25 ----------------sending to employee--------------------
+addresses--  [u'rakesh.chopkar@dell.com']
+mail sent successfully
+[[u'Shrinivas Kulkarni', u'rakesh.chopkar@dell.com', 43734.0, u'Male', u'PCMC, Pune', u'Married', u'']]
+2019-09-26 ------------sending to facilities-------------------
+sent to facility successfully
+2019-09-26 ----------------sending to employee--------------------
+addresses--  [u'rakesh.chopkar@dell.com']
+mail sent successfully
+[]
+[]
+[[u'Deepak Ratnaparkhi', u'deepak.ratnaparkhi@dell.com', 43737.0, u'Male', u'Flat no A-403, Nisarg Kiran CHS, Krushna Nagari , Nakhate Vasti, Rahatni', u'Married', 43543.0]]
+2019-09-29 ------------sending to facilities-------------------
+sent to facility successfully
+2019-09-29 ----------------sending to employee--------------------
+addresses--  [u'deepak.ratnaparkhi@dell.com']
+sending mail to --  [u'deepak.ratnaparkhi@dell.com', 'list.uds.pune@emc.com']
+mail sent successfully
+....................................................................................
+[]
+[]
+[[u'Tushar', u'tushar.kate@dell.com', 43740.0, u'Male', u'Swaraaj Pride, A506, Punawale malwadi, Jambe road - 411033', u'Married', 43572.0]]
+2019-10-02 ------------sending to facilities-------------------
+sent to facility successfully
+2019-10-02 ----------------sending to employee--------------------
+addresses--  [u'tushar.kate@dell.com']
+sending mail to --  [u'tushar.kate@dell.com', 'list.uds.pune@emc.com']
+mail sent successfully
+....................................................................................
+[]
